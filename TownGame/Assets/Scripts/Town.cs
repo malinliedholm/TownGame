@@ -6,7 +6,7 @@ public class Town {
     private int inhabitants;
 
     public Town(int startMoney) {
-        money = startMoney;
+        // money = startMoney;
     }
 
     public void SellBuilding(Building building) {
